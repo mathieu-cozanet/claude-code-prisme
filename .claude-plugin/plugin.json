@@ -1,0 +1,6 @@
+{
+  "name": "prisme",
+  "version": "0.1.0",
+  "description": "Colored live view of what Claude is doing (thinking, writing, tools) and the lexical tone of its words",
+  "types": "./types/index.d.ts"
+}

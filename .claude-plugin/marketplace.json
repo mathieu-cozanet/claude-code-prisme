@@ -1,0 +1,5 @@
+{
+  "name": "claude-code-prisme",
+  "owner": { "name": "Mathieu Cozanet" },
+  "plugins": [{ "name": "prisme", "source": "./" }]
+}
